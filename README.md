@@ -1,7 +1,7 @@
-👋 Hi there! I'm Ian Mitchell.
+# 👋 Hi there! I'm Ian Mitchell.
 
 
-## About me
+### About me
 - 🎓 Student at UAM Azcapotzalco
 - 📊 Aspiring Data Analyst & Data Scientist
 - 💻 Passionate about turning data into actionable insights.
