@@ -13,6 +13,6 @@
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,&perline=3)](https://skillicons.dev)
-[![My Skills](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![My Skills](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
