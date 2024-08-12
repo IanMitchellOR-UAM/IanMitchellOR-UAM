@@ -9,10 +9,8 @@
 - 🚀 Currently exploring AI and machine learning to solve real-world problems.
 - 🌱 Always learning and experimenting with new technologies.
 - 🔍 Seeking opportunities to collaborate on exciting data projects.
-- ❤️ My favorite language: [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,&perline=3)](https://skillicons.dev)
-
+- ❤️ My favorite language: Python
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,&perline=3)](https://skillicons.dev)
+![Tableau](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black)
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
