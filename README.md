@@ -1,5 +1,4 @@
-# 👋 Hi there! I'm Ian Mitchell.
-
+<h1 align="center">👋 Hi there! I'm Ian Mitchell</h1>
 
 ### About me
 - 🎓 Student at UAM Azcapotzalco
